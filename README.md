@@ -28,6 +28,6 @@ Wall Street Journal.
 Full publication list and research code: **[johnhringiv.com/research](https://johnhringiv.com/research)**.
 
 #### Elsewhere
-🌐 [johnhringiv.com](https://johnhringiv.com) · 💼 [LinkedIn](https://www.linkedin.com/in/johnhringiv)
+🌐 [johnhringiv.com](https://johnhringiv.com) · 💼 [LinkedIn](https://www.linkedin.com/in/johnhringiv) · 📄 [CV](https://johnhringiv.com/PDF/John_Ring_CV.pdf)
 
 *Off the keyboard: competitive sailing (International Lightning Class), woodworking, and photography.*
