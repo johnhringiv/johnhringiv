@@ -13,6 +13,7 @@ project actually lands.
 open-weight inference, compilers, and self-hosted infrastructure.
 
 #### Things I've built
+A few personal projects, most of my work these days is proprietary:
 - 🌐 [**johnhringiv.com**](https://github.com/johnhringiv/johnhringiv.com) — my personal site: PHP, vanilla modern CSS, self-hosted in Docker behind HAProxy + Cloudflare
 - 🦀 [**NCC-Rust**](https://github.com/johnhringiv/NCC-Rust) — "Not Completely C," a C compiler in Rust that emits x86-64 directly (lexer through codegen, no external assembler)
 - ⛵ [**gotflashes**](https://github.com/johnhringiv/gotflashes) — web app for the International Lightning Class sailing community (Laravel + Livewire)
